@@ -9,11 +9,12 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.usta</groupId>
-    <artifactId>ProyectoGuia</artifactId>
+    <artifactId>ProyectoArgentinaComparte</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>ProyectoGuia</name>
-    <description>ProyectoGuia</description>
+    <name>ProyectoArgentinaComparte</name>
+    <description>Proyecto Argentina Comparte</description>
     <url/>
+    <dependencies></dependencies>
     <licenses>
         <license/>
     </licenses>
